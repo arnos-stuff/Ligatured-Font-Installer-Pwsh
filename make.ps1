@@ -1,0 +1,1 @@
+ps2exe -inputFile .\LigaturesInstaller.ps1 -noConsole -exitOnCancel -description "Installs Fonts with Ligatures" -iconFile ".\Zap!.ico" -MTA -title "Font Installer" -product "A windows installer for fonts with ligatures." -Verbose -UNICODEEncoding -credentialGUI -winFormsDPIAware -version "0.0.1" -company "Arno / Shae (2023)" -requireAdmin -DPIAware
